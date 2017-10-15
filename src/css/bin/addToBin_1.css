@@ -1,0 +1,133 @@
+.shelfie_Body_Bin_1_Add {
+    width: 100%;
+    height: 80px;
+    background-color: #ed6b5a;
+
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: center;
+	align-content: center;
+  }
+
+.top_bar_bin_1_Add {
+    width: 570px;
+    height: 80px;
+    margin: 0px 725px 20px 0px;
+    padding: 0px 0px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    color: #FFFFFF;
+    background-color: #d34735;
+  }
+
+.shelfieHeadBin1_Add {
+    width: 100px;
+    height: 80px;
+    margin: 0px 0px 0px 20px;
+    padding: 18px 20px 24px 16px;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+    color: #FFFFFF;
+    background-color: #ed6b5a;
+  }
+
+.top_bar_bin_1_Add img {
+    width: 200px;
+    height: 80px;
+    margin: 0px 20px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    vertical-align: middle;
+  }
+
+.buttonBox_bin_1_Add {
+      width: 800px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      font-size: 35px;
+      color: #000000;
+      display: inline;
+  }
+
+.buttonBoxImage_Add {
+    width: 225px;
+    height: 225px;
+    margin: 0px 20px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    float: left;
+}
+
+.buttonBoxImage_Add img {
+    width: 225px;
+    height: 225px;
+}
+
+.boxButtonEdit_Add {
+    width: 500px;
+    height: 75px;
+    margin: 0px 20px 0px 0px;
+    padding: 0px 0px 10px 0xp;
+    border-radius: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    text-align: left;
+    border-color: #40f99b;
+    background-color: #40f99b;
+    text-align: center;
+}
+
+.boxButtonDelete_Add {
+    width: 200px;
+    height: 75px;
+    margin: 0px 20px 0px 20px;
+    padding: 0px 0px 10px 0xp;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    text-align: left;
+    border-color: #d7d7d7;
+    background-color: #d7d7d7;
+    text-align: center;
+}
+
+.boxButtonBin1Text_Add {
+    width: 500px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    font-size: 20px;
+    float: left;
+}
+
+.boxButtonBin1Input_Add {
+    width: 500px;
+    height: 70px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 10px 0xp;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    text-align: left;
+    border-color: #FF0000;
+    background-color: #FFFFFF;
+}
+
+.boxButtonBin1Price_Add {
+    width: 500px;
+    height: 70px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 10px 0xp;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 30px;
+    text-align: left;
+    border-color: #FF0000;
+    background-color: #FFFFFF;
+}
